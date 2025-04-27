@@ -1,5 +1,7 @@
 <?php
 
+namespace IxDF_handbook\SOLID\srp;
+
 /*
  * Single Responsibility Principle
  *
