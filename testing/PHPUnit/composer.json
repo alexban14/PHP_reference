@@ -1,0 +1,16 @@
+{
+    "name": "alexbn14/php-unit-demos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alexbn14\\PhpUnitDemos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Ban",
+            "email": "alexbanut10@gmail.com"
+        }
+    ],
+    "require": {}
+}
